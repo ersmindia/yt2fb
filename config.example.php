@@ -7,11 +7,11 @@
 // Website configuration
 
 define('SCRIPT_PATH', '/');                     // Path to the script (without index.php)
-define('SITE_URL',    'http://www.domain.com'); // Site URL, without path
+define('SITE_URL',    'http://www.yt2fb.ugosay.com'); // Site URL, without path
 
 // Facebook configuration
 
-define('SITE_NAME',   'domain.com');      // Your site name
+define('SITE_NAME',   'ugosay.com');      // Your site name
 define('FB_ADMINS',   '100000000000000'); // Your Facebook profile ID
 define('EMBED_PLAYER', false);            // Embed the YouTube Flash player in Facebook. Will not work on all devices (not recommended)
 
